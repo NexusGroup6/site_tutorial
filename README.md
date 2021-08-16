@@ -1,5 +1,7 @@
 <h1 align="center">Site_tutorial</h1>
-
+ <h4 align="center"> 
+	🚧  Site_tutorial 🚀 Completo ✅
+</h4>
 <p align="center">Site feito para ajudar a comunidade a usar o git, github e o gitpages</p>
 
 Tabela de conteúdos
@@ -11,9 +13,7 @@ Tabela de conteúdos
    * Site
    * Contribuidores 
 <!--te-->
- <h4 align="center"> 
-	🚧  Site_tutorial 🚀 Completo ✅
-</h4>
+
 <h2>Features</h2>
 
 - [x] Menu Lateral 
