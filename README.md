@@ -32,9 +32,47 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - CSS
 
 ## Site 
+<p> Menu lateral usado no site </p>
 <h1 align="center">
-  <img alt="imagem" title="#imagem" src="imagenstutorial/parte1/print_botão_criar.PNG" />
+  <img alt="imagem" title="#imagem" src="print_site/menulateral.PNG" />
 </h1>
+
+<p> Tutorial de instalar o git </p>
+<h1 align="center">
+  <img alt="imagem" title="#imagem" src="print_site/instalandogit.PNG" />
+</h1>
+
+<p> Criação de conta </p>
+<h1 align="center">
+  <img alt="imagem" title="#imagem" src="print_site/criandoconta.PNG" />
+</h1>
+
+<p> Parte I </p>
+<h1 align="center">
+  <img alt="imagem" title="#imagem" src="print_site/part1.PNG" />
+</h1>
+
+<p> Parte II </p>
+<h1 align="center">
+  <img alt="imagem" title="#imagem" src="print_site/part2.PNG" />
+</h1>
+
+<p> Parte III </p>
+<h1 align="center">
+  <img alt="imagem" title="#imagem" src="print_site/part3.PNG" />
+</h1>
+
+<p> Parte IV </p>
+<h1 align="center">
+  <img alt="imagem" title="#imagem" src="print_site/part4.PNG" />
+</h1>
+
+<p> Footer </p>
+<h1 align="center">
+  <img alt="imagem" title="#imagem" src="print_site/footer.PNG" />
+</h1>
+
+
 
 
 
