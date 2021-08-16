@@ -31,4 +31,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - HTML
 - CSS
 
+## 👨‍💻 Contribuidores
+
+Vitor Benedito - Paulo Rondon
+Paulo Willyan - Marcos Arambasic
+Matheus Costa - Matheus Reis
 
