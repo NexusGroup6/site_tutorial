@@ -29,7 +29,6 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 As seguintes ferramentas foram usadas na construção do projeto:
 
 - HTML
-- 
-- [React](https://pt-br.reactjs.org/)
-- [React Native](https://reactnative.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
+- CSS
+
+
