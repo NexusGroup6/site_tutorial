@@ -1,11 +1,11 @@
 <h1 align="center">Site_tutorial</h1>
 
-<p align="center">Site feito para ajudar a dar as pessoas a usar o git, github é o gitpages</p>
+<p align="center">Site feito para ajudar a comunidade a usar o git, github e o gitpages</p>
 
 Tabela de conteúdos
 =================
 <!--ts-->
-   * Pagina Inical
+   * Pagina Inicial
    * Parte I tutorial 
    * Parte II tutorial 
    * Parte III tutorial 
@@ -20,9 +20,9 @@ Tabela de conteúdos
 - [x] Video Tutorial  
 ### Pré-requisitos
 
-Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
+Antes de começar, você irá precisar ter instalado em sua máquina a seguinte ferramenta:
 [Git](https://git-scm.com). 
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+Além disto é recomendável utilizar um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
 ### 🛠 Tecnologias
 
