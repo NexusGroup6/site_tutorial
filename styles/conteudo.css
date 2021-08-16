@@ -9,12 +9,29 @@
 
 
 /*Main*/
-.aviso {/*Texto aviso*/
-    font-size: 30px;/*Tamanho fonte*/
-    color: white;/*Cor*/
-    margin: 100px;/*Margem*/
-    font-family: 'Times New Roman', Times, serif;/*Fonte*/
+.textoinstalador {/*Texto conteúdo*/
+    font-family: 'Courier New', Courier, monospace;/*Fonte*/
+    font-size: 25px;/*Tamanho fonte*/
+    padding: 30px;/*Distância*/
+    color: white;/*Cor fonte*/
     text-align: justify;/*Alinhamento*/
+    margin-left: 60px;
+    margin-right: 60px;
+}
+.linkgit {/*Link instaldor*/
+    text-align: center;/*Alinhamento*/
+    text-decoration: none;
+}
+.linkgit:hover {/*Hover do link instalador*/
+    cursor: pointer;/*Cursor sobre*/
+    color: pink;/*Cor*/
+}
+.instalandogit {/*Img*/
+    text-align: center;/*Alinhamento*/
+}
+.instalandogit img {/*Img diretamente*/
+    border-radius: 15px;/*Bordas redondas*/
+    padding-bottom: 60px;/*Padding abaixo*/
 }
 .subtitulo {/*Subtitulos*/
     text-align: right;/*Alinhamento a direita*/
@@ -55,4 +72,10 @@
 .conteudo4 iframe {/*Diretamente imagens*/
     border-radius: 15px;/*Bordas img's*/
     padding-bottom: 60px;/*Distância abaixo*/
+}
+button {/*Botão*/
+    padding: 15px;/*Distância*/
+    border-radius: 15px;/*Bordas*/
+    outline: none;/*Linha de fora*/
+    border: none;/*Bordas nula*/
 }
