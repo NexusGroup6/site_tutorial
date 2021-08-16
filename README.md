@@ -33,7 +33,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 👨‍💻 Contribuidores
 
-Vitor Benedito - Paulo Rondon
-Paulo Willyan - Marcos Arambasic
+Vitor Benedito - Paulo Rondon -
+Paulo Willyan - Marcos Arambasic -
 Matheus Costa - Matheus Reis
 
